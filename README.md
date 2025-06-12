@@ -33,12 +33,11 @@ NoteGame is an Electron-based desktop application designed for gamers who want t
 
 ### Windows
 
-You can download the installer from the GitHub Releases page:
+You can download the installer directly from GitHub:
 
-- **[Download from GitHub Releases](https://github.com/GitHixy/NoteGame/releases)**: Get the latest installer
-- **[Release Information](releases/)**: View additional release information
+- **[Direct Download Link](https://github.com/GitHixy/NoteGame/raw/main/releases/NoteGame-1.0.0%20Setup.exe)**: Download the Windows installer
 
-Once downloaded, simply run the installer and follow the on-screen instructions to install NoteGame on your Windows system.
+Once downloaded, run the installer and let it install the App.
 
 
 ## 📝 Usage
