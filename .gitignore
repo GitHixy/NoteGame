@@ -1,0 +1,29 @@
+# Dependencies
+node_modules
+
+# Production build files
+dist/
+out/
+
+# Releases folder and executables
+releases/
+*.exe
+
+# But keep the README file in the releases folder
+!releases/README.md
+
+# TypeScript compiled files
+*.js.map
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Lock files
+package-lock.json
+yarn.lock
