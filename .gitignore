@@ -6,11 +6,9 @@ dist/
 out/
 
 # Releases folder and executables
-releases/
-*.exe
-
-# But keep the README file in the releases folder
-!releases/README.md
+!releases/
+!releases/*.exe
+!*.exe
 
 # TypeScript compiled files
 *.js.map
