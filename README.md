@@ -1,12 +1,14 @@
 # NoteGame
 
-<p align="center">
-  <img src="app_icon.png" alt="NoteGame Logo" width="150" />
-</p>
 
-<p align="center">
-  A stylish desktop application for gamers to take and organize notes about their favorite games.
-</p>
+<img src="app_icon.png" alt="NoteGame Logo" width="150" />
+
+
+
+A stylish desktop application for gamers to take and organize notes about their favorite games.
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O81NUMC7)
 
 ## 📋 About
 
